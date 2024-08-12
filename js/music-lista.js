@@ -12,11 +12,32 @@
 let allMusic = [
 
   {
-    name: "Leskort - Черная бухгалтерия",
+    name: "Черная бухгалтерия",
     artist: "Leskort",
     img: "music-1",
     src: "music-1",
   },
+  {
+    name: "Mauser",
+    artist: "Leskort",
+    img: "music-2",
+    src: "music-2",
+  },
+
+{
+    name: "nOmEr",
+    artist: "Leskort, Rondo Eyes ",
+    img: "music-3",
+    src: "music-3",
+  },
+
+  {
+    name: "reGBI",
+    artist: "Leskort, Rondo Eyes ",
+    img: "music-4",
+    src: "music-4",
+  },
+
 
   
   
